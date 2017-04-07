@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1491354844 source:d:\luvare\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funcion.c"
+
+1491354844 "
+
+1491354842 d:\luvare\tp_1_cascara\funciones.h
+
+1491355044 d:\luvare\tp_1_cascara\funcion.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+
+1491355044 
+
+1491354846 source:/Users/lucianavarela/Documents/UTN/ProgramacionI/TP Posta/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funcion.c"
+
+1491354844 /Users/lucianavarela/Documents/UTN/ProgramacionI/TP Posta/funciones.h
+
+1491355046 /Users/lucianavarela/Documents/UTN/ProgramacionI/TP Posta/funcion.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+
