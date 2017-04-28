@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1492806178 source:c:\users\luli\desktop\tp 2\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1492805840 c:\users\luli\desktop\tp 2\tp2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1492626621 source:c:\users\luli\desktop\tp 2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1492821264 source:d:\luciana varela\programacion i y laboratorio i\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1492822356 d:\luciana varela\programacion i y laboratorio i\tp2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1492820672 source:d:\luciana varela\programacion i y laboratorio i\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493394376 source:c:\users\luli\desktop\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1493371989 c:\users\luli\desktop\tp2\funciones.h
+
+1493371989 source:c:\users\luli\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493316776 source:c:\users\luciana.varela\downloads\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1493299333 c:\users\luciana.varela\downloads\tp2\funciones.h
+
+1493299333 source:c:\users\luciana.varela\downloads\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493395867 source:c:\users\luli\desktop\tp2 - copy\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1493371989 c:\users\luli\desktop\tp2 - copy\funciones.h
+
+1493371989 source:c:\users\luli\desktop\tp2 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
