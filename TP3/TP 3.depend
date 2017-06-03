@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1495831801 source:c:\users\luli\desktop\tp 3\tp 3\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1495847868 source:c:\users\luli\desktop\tp 3\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1495831801 c:\users\luli\desktop\tp 3\tp 3\funcion.h
+
+1496076850 source:c:\users\luli\desktop\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1496020603 c:\users\luli\desktop\tp 3\funcion.h
+
+1496077371 source:c:\users\luli\desktop\tp 3\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1495850352 source:c:\users\luli\desktop\tp 3\tp3.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1496431424 source:c:\users\luciana.varela\downloads\tp 3\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1496431331 c:\users\luciana.varela\downloads\tp 3\tp 3\funcion.h
+
+1496431220 source:c:\users\luciana.varela\downloads\tp 3\tp 3\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1496451677 source:c:\users\alumno\downloads\tp 3\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1496431332 c:\users\alumno\downloads\tp 3\funcion.h
+
+1496431426 source:c:\users\alumno\downloads\tp 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
